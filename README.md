@@ -65,3 +65,6 @@ Kullanıcı, ürünleri sepete ekleyebilir ve sipariş verebilir.
 ---
 
 📸 Ekran Görüntüleri
+![Admin Paneli](1.PNG)
+![Kullanıcı Sepeti](2.PNG)
+![Kullanıcı Sepeti](3.PNG)
