@@ -2,7 +2,7 @@
 
 Bu proje, **Teknolojik ürünler satan bir e-ticaret sitesi** için geliştirilmiştir.  
 Sadece admin (yönetici) tarafından ürün eklenebilirken, kullanıcılar ürünleri sepete ekleyip sipariş verebilir.  
-Site, örnek verilerle (mock data) doldurulmuştur.
+Site, örnek verilerle doldurulmuştur.
 
 ---
 
